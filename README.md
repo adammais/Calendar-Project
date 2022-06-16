@@ -12,16 +12,6 @@ to
   
 This should help better organize users.
 
-## Who will use it?
-
-**Anyone who wants to be more organized** will use this calendar application. It should be
-quicker and easier to maintain than paper calendars; anyone who currently uses one might switch over to this application.
-
-## Why is this project of interest to me?
-
-Currently, I keep track of upcoming assignments, exams, and other events by writing them down on a whiteboard.
-Using this application will save me time and keep me more organized.
-
 ## User Stories
 
 - As a user, I want to be able to add an event to the Calendar
