@@ -1,0 +1,29 @@
+{
+    "name": "Adam's Calendar",
+    "listOfEvents": [
+        {
+            "eventId": "1ed1306e-0468-447e-afbc-1690430328be",
+            "startDateTime": "2021-10-28T18:30",
+            "recurringUntil": "2021-10-28T18:30",
+            "description": "Soccer",
+            "location": "UBC",
+            "endDateTime": "2021-10-28T18:45"
+        },
+        {
+            "eventId": "0b521d2a-e9a7-443c-bc4a-53e3b93582d5",
+            "startDateTime": "2021-11-28T18:30",
+            "recurringUntil": "2021-11-28T18:30",
+            "description": "Swimming",
+            "location": "UBC",
+            "endDateTime": "2021-11-28T18:45"
+        },
+        {
+            "eventId": "6e1b088c-fc2c-45ae-9bf1-8d00461972c2",
+            "startDateTime": "2021-12-28T18:30",
+            "recurringUntil": "2021-12-28T18:30",
+            "description": "Tennis",
+            "location": "UBC",
+            "endDateTime": "2021-12-28T18:45"
+        }
+    ]
+}

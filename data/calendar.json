@@ -1,0 +1,37 @@
+{
+    "name": "Calendar",
+    "listOfEvents": [
+        {
+            "eventId": "fb2a3776-1f59-4275-a7cf-0e90404e0b98",
+            "startDateTime": "2007-12-03T09:15",
+            "recurringUntil": "2008-01-03T10:15",
+            "description": "Swimming",
+            "location": "UBC",
+            "endDateTime": "2007-12-03T10:15"
+        },
+        {
+            "eventId": "6f6fb906-1314-4a6e-a15a-d232c364ad8c",
+            "startDateTime": "2007-12-10T09:15",
+            "recurringUntil": "2008-01-03T10:15",
+            "description": "Swimming",
+            "location": "UBC",
+            "endDateTime": "2007-12-10T10:15"
+        },
+        {
+            "eventId": "729b84c9-f7eb-4a23-b45d-a1738b4ad753",
+            "startDateTime": "2007-12-17T09:15",
+            "recurringUntil": "2008-01-03T10:15",
+            "description": "Swimming",
+            "location": "UBC",
+            "endDateTime": "2007-12-17T10:15"
+        },
+        {
+            "eventId": "576c1ad1-438a-48ba-9820-dcd688dc0564",
+            "startDateTime": "2007-12-24T09:15",
+            "recurringUntil": "2008-01-03T10:15",
+            "description": "Swimming",
+            "location": "UBC",
+            "endDateTime": "2007-12-24T10:15"
+        }
+    ]
+}
